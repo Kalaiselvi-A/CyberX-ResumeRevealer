@@ -4,7 +4,7 @@ ResumeRevealer is an advanced tool designed for HR professionals, recruiters, an
 
 ## **Key Features:**
 
-**Resume Parsing:** Automatically extracts key information from resumes in various formats including PDF, DOCX, and HTML.
+**Resume Parsing:** Automatically extracts a key information from resumes in various formats including PDF, DOCX, and HTML.
 
 **Job Title Standardization:** Utilizes the O-NET database to standardize job titles and occupations for consistent taxonomy.
 
